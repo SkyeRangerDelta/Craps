@@ -1,6 +1,6 @@
 ﻿// CRAPS
 // Assignment 1 - 09/10/2021
-// Developed by William Hutchison
+// Developed by SkyeRangerDelta
 // Version 1.0.3
 // .NET 3.1 Windows Forms Application
 
