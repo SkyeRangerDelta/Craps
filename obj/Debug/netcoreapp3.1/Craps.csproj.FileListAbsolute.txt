@@ -1,0 +1,16 @@
+P:\VS Solutions\Craps\Craps\Craps\bin\Debug\netcoreapp3.1\Craps.exe
+P:\VS Solutions\Craps\Craps\Craps\bin\Debug\netcoreapp3.1\Craps.deps.json
+P:\VS Solutions\Craps\Craps\Craps\bin\Debug\netcoreapp3.1\Craps.runtimeconfig.json
+P:\VS Solutions\Craps\Craps\Craps\bin\Debug\netcoreapp3.1\Craps.runtimeconfig.dev.json
+P:\VS Solutions\Craps\Craps\Craps\bin\Debug\netcoreapp3.1\Craps.dll
+P:\VS Solutions\Craps\Craps\Craps\bin\Debug\netcoreapp3.1\Craps.pdb
+P:\VS Solutions\Craps\Craps\Craps\obj\Debug\netcoreapp3.1\Craps.csprojAssemblyReference.cache
+P:\VS Solutions\Craps\Craps\Craps\obj\Debug\netcoreapp3.1\Craps.window_Main.resources
+P:\VS Solutions\Craps\Craps\Craps\obj\Debug\netcoreapp3.1\Craps.csproj.GenerateResource.cache
+P:\VS Solutions\Craps\Craps\Craps\obj\Debug\netcoreapp3.1\Craps.AssemblyInfoInputs.cache
+P:\VS Solutions\Craps\Craps\Craps\obj\Debug\netcoreapp3.1\Craps.AssemblyInfo.cs
+P:\VS Solutions\Craps\Craps\Craps\obj\Debug\netcoreapp3.1\Craps.csproj.CoreCompileInputs.cache
+P:\VS Solutions\Craps\Craps\Craps\obj\Debug\netcoreapp3.1\Craps.dll
+P:\VS Solutions\Craps\Craps\Craps\obj\Debug\netcoreapp3.1\Craps.pdb
+P:\VS Solutions\Craps\Craps\Craps\obj\Debug\netcoreapp3.1\Craps.genruntimeconfig.cache
+P:\VS Solutions\Craps\Craps\Craps\obj\Debug\netcoreapp3.1\Craps.WagerDialog.resources

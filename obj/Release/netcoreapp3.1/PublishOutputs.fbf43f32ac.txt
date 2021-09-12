@@ -1,0 +1,5 @@
+P:\VS Solutions\Craps\Craps\Craps\bin\Release\netcoreapp3.1\publish\Craps.exe
+P:\VS Solutions\Craps\Craps\Craps\bin\Release\netcoreapp3.1\publish\Craps.dll
+P:\VS Solutions\Craps\Craps\Craps\bin\Release\netcoreapp3.1\publish\Craps.deps.json
+P:\VS Solutions\Craps\Craps\Craps\bin\Release\netcoreapp3.1\publish\Craps.runtimeconfig.json
+P:\VS Solutions\Craps\Craps\Craps\bin\Release\netcoreapp3.1\publish\Craps.pdb
